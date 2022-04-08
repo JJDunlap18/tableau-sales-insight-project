@@ -22,6 +22,6 @@
 
 ## Insights
 Based on the trends visualized in the graphs the following statements can be made:
-- Something occurred midway in 2019 that could have caused sales to steadily decline
+- Additional research should be done to determine why sales began steadily declining midway in 2019
 - Majority of sales are made in the brick and mortar stores
 - The Kanpur and Bengaluru markets are losing profits requiring further investigations to see if this can be mitigated. Stratgies can be gained from the top performing markets to assist in increasing profits for the other markets
