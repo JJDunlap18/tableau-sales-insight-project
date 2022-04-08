@@ -19,3 +19,9 @@
 - In the profit margin by market graph we can see that Kanpu and especially Bengaluru are failing to make a profit. 
 - Interestingly enough Delhi NCR has the greatest revenue but Surat is brining in the most profit compared to the other markets
 - This information can be used to see what is being done in the Surat market to drive profit and if those methods can be used to increase profit for underperforming markets
+
+## Insights
+Based on the trends visualized in the graphs the following statements can be made:
+- Something occurred midway in 2019 that could have caused sales to steadily decline
+- Majority of sales are made in the brick and mortar stores
+- The Kanpur and Bengaluru markets are losing profits requiring further investigations to see if this can be mitigated. Stratgies can be gained from the top performing markets to assist in increasing profits for the other markets
