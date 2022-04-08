@@ -1,5 +1,5 @@
 # Sales Insight: Project Overview
-- This project was done under the scenario that a company in India is noticing a decline in sales and the Director wants a simple insight into the sales of the company.
+- This project was done under the scenario that a company in India is noticing a decline in sales and the Director wants an insight into the sales of the company.
 - Tableau Public was used to create an interactive dashboard that highlighted the following:
   - Revenue breakdown by cities
   - Revenue breakdown by years and months
